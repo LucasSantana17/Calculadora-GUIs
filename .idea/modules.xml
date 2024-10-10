@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Calculadora Java.iml" filepath="$PROJECT_DIR$/Calculadora Java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Calcuradora.iml" filepath="$PROJECT_DIR$/Calcuradora.iml" />
+>>>>>>> 504c3d8789245be61915f8acf754825ec04a3ccc
     </modules>
   </component>
 </project>
